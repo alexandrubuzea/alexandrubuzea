@@ -21,7 +21,7 @@ I am:
       - functional programming
       - compilers and parsers
       - numerical analysis and numerical computing
-- an Undergraduate Teaching Assistant at University POLITEHNICA of Bucharest in
+- an Undergraduate Teaching Assistant at University POLITEHNICA of Bucharest in \
       - Computer Programming and Programming Languages (`C`) (1st year) \
       - Numerical Methods (`MATLAB`/`GNU Octave`) (1st year) \
       - Analysis of Algorithms (2nd year) \
