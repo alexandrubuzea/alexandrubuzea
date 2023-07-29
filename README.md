@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- I am
+- I am \\
     | a Computer Science student (Bachelor) at University POLITEHNICA of Bucharest
     | very passionate about
       -> AI
