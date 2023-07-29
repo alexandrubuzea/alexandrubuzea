@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 -->
 I am:
 - a Computer Science student (Bachelor) at University POLITEHNICA of Bucharest
-- very passionate about
-      - Artifficial Intelligence and Machine Learning
-      - functional programming
-      - compilers and parsers
+- very passionate about \
+      - Artifficial Intelligence and Machine Learning \
+      - functional programming \
+      - compilers and parsers \
       - numerical analysis and numerical computing
 - an Undergraduate Teaching Assistant at University POLITEHNICA of Bucharest in \
       - Computer Programming and Programming Languages (`C`) (1st year) \
