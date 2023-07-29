@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - I am \
-    | a Computer Science student (Bachelor) at University POLITEHNICA of Bucharest \
+&emsp&emsp | a Computer Science student (Bachelor) at University POLITEHNICA of Bucharest \
     | very passionate about \
       -> Artifficial Intelligence and Machine Learning \
       -> functional programming \
@@ -31,10 +31,10 @@ Here are some ideas to get you started:
       -> Formal Languages and Automata (3rd year) \
     | open to new internship opportunities and projects. \
 
-- How to reach me:
-  | E-mail:
-    -> alexandru.buzea2007@stud.acs.upb.ro
-    -> alexandrubuzea2001@gmail.com
+- How to reach me: \
+  | E-mail: \
+    -> alexandru.buzea2007@stud.acs.upb.ro \
+    -> alexandrubuzea2001@gmail.com \
 
 LANGUAGES AND TOOLS
 
