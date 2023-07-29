@@ -27,7 +27,7 @@ I am:
       - Analysis of Algorithms (2nd year) \
       - Operating Systems (`C`) (2nd year) \
       - Programming Paradigms (`Racket`, `Haskell`, `Prolog`) (2nd year) \
-      - Formal Languages and Automata (3rd year) \
+      - Formal Languages and Automata (3rd year)
 - open to new internship opportunities and projects.
 
 - How to reach me: alexandru.buzea2007@stud.acs.upb.ro or alexandrubuzea2001@gmail.com
