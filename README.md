@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 I am:
 - a Computer Science student (Bachelor) at University POLITEHNICA of Bucharest
 - very passionate about \
-      - Artifficial Intelligence and Machine Learning \
+      - Artificial Intelligence and Machine Learning \
       - functional programming \
       - compilers and parsers \
       - numerical analysis and numerical computing
