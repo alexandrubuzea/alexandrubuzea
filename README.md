@@ -15,20 +15,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I am:
-- a Computer Science student (Bachelor) at University POLITEHNICA of Bucharest
+- a Computer Science student (AI Master's degree) at University POLITEHNICA of Bucharest
 - very passionate about \
       - Artificial Intelligence and Machine Learning \
       - functional programming \
       - compilers and parsers \
       - numerical analysis and numerical computing
 - an Undergraduate Teaching Assistant at University POLITEHNICA of Bucharest in \
-      - Computer Programming and Programming Languages (`C`) (1st year) \
-      - Numerical Methods (`MATLAB`/`GNU Octave`) (1st year) \
       - Analysis of Algorithms (2nd year) \
-      - Operating Systems (`C`) (2nd year) \
       - Programming Paradigms (`Racket`, `Haskell`, `Prolog`) (2nd year) \
-      - Formal Languages and Automata (3rd year)
-- open to new internship opportunities and projects.
+      - Formal Languages and Automata Theory (3rd year)
+- open to new professional opportunities and projects.
 
 - How to reach me: alexandru.buzea2007@stud.acs.upb.ro or alexandrubuzea2001@gmail.com
 
